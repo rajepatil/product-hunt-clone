@@ -45,11 +45,11 @@ export function Asidecard(props)
                     <h1 className="title">Newsletter</h1>
                     <div className="newsletter">
                         <img className="newsletter-img" src="https://ph-files.imgix.net/742f9303-ea31-4ab8-89fa-664e6be69029?auto=format&auto=compress&codec=mozjpeg&cs=strip" />
-                        <h1>Remote teams, this is for you</h1>
+                        <h1 className="card-text">Remote teams, this is for you</h1>
                         <div className="line">
 
                         </div>
-                        <h2>Get the best new products in your inbox, every day</h2>
+                        <h2 className="card-text">Get the best new products in your inbox, every day</h2>
                         <div>
                             <input className="input-search" placeholder="Your email" />
                         </div>

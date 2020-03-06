@@ -155,11 +155,12 @@ li {
 }
 
 .input-search {
-  width: 300px;
+  width: 280px;
   height: 30px;
   border: 1px solid #e8e8e8;
   border-radius: 5px;
   padding: 0 8px;
+  margin: 12px;
 }
 
 .flex-item-center {
@@ -291,7 +292,7 @@ a:link {
 
 .newsletter {
   width: 330px;
-  height: 350px;
+  height: 45 0px;
   background-color: #fff;
   border-radius: 3px;
   box-shadow: 0px 2px #e8e8e8;
@@ -305,4 +306,9 @@ a:link {
 .btn-full {
   width: 90%;
   margin: 15px;
+}
+
+.card-text {
+  padding: 20px;
+  font-size: large;
 }
