@@ -3,7 +3,7 @@ import './App.css';
 import { Cards } from './Cards';
 import { Header } from './header';
 import { Asidecard } from './Asidecard';
-// import config from './config';
+
 
 import { profileSrc } from '../data';
 
