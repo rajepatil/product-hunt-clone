@@ -6,7 +6,7 @@ export function Cards(props)
     <div>
       <h1 className="title">{props.title}</h1>
       <div className="main-card">
-        {props.names.map(name => <Card {...name} updateCount={props.updateCount} />)}
+        {props.posts.map(post => <Card {...post} updateCount={props.updateCount} />)}
       </div>
     </div>
   );

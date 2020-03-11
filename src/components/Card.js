@@ -1,21 +1,23 @@
 import React from 'react';
 export function Card(props)
 {
+  console.log("props in card",props)
   return (
+
     <div className="flex card">
       <div className="flex">
-        <img className="img" src={props.src} alt={props.name}></img>
+        <img className="img" src={props.thumbnail.image_url} alt={props.name}></img>
         <div className="description">
           <h3 className="heading">{props.name}</h3>
-          <p className="description">{props.description}</p>
-          <div>
-            <button className="btn">{props.up}</button>
-            {props.tags.map(tag => <span>{tag}</span>)}
+          
+         <div>
+            <button className="btn">{props.comments_count}</button>
+           <span>{props.tagline}</span>
           </div>
         </div>
       </div>
-      <button className="up" onClick={() => props.updateCount(props.count)}>
-        {props.count}
+      <button className="up" onClick={() => props.updateCount(props.votes_count)}>
+        {props.votes_count}
       </button>
 
     </div>);
