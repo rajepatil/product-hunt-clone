@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/product-hunt-clone/static/css/main.4daa40df.chunk.css",
-    "main.js": "/product-hunt-clone/static/js/main.701e3479.chunk.js",
-    "main.js.map": "/product-hunt-clone/static/js/main.701e3479.chunk.js.map",
+    "main.js": "/product-hunt-clone/static/js/main.6423ac81.chunk.js",
+    "main.js.map": "/product-hunt-clone/static/js/main.6423ac81.chunk.js.map",
     "runtime-main.js": "/product-hunt-clone/static/js/runtime-main.af105efe.js",
     "runtime-main.js.map": "/product-hunt-clone/static/js/runtime-main.af105efe.js.map",
     "static/js/2.2bd67f70.chunk.js": "/product-hunt-clone/static/js/2.2bd67f70.chunk.js",
     "static/js/2.2bd67f70.chunk.js.map": "/product-hunt-clone/static/js/2.2bd67f70.chunk.js.map",
     "index.html": "/product-hunt-clone/index.html",
-    "precache-manifest.edf5227826eaec9bbf309b6d3f040ea5.js": "/product-hunt-clone/precache-manifest.edf5227826eaec9bbf309b6d3f040ea5.js",
+    "precache-manifest.db17596d6803fd6e482fa82ee2e5c8e7.js": "/product-hunt-clone/precache-manifest.db17596d6803fd6e482fa82ee2e5c8e7.js",
     "service-worker.js": "/product-hunt-clone/service-worker.js",
     "static/css/main.4daa40df.chunk.css.map": "/product-hunt-clone/static/css/main.4daa40df.chunk.css.map",
     "static/js/2.2bd67f70.chunk.js.LICENSE.txt": "/product-hunt-clone/static/js/2.2bd67f70.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.af105efe.js",
     "static/js/2.2bd67f70.chunk.js",
     "static/css/main.4daa40df.chunk.css",
-    "static/js/main.701e3479.chunk.js"
+    "static/js/main.6423ac81.chunk.js"
   ]
 }
